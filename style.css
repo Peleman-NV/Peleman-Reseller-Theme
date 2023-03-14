@@ -1,0 +1,13 @@
+/*
+Theme Name: Peleman Reseller Theme
+Theme URI: https://peleman.com/
+Author: Noë Baeten
+Author URI: https://peleman.com/
+Description: A reseller theme made for Peleman Industries
+Version: 1.0
+Text Domain: peleman-reseller-theme
+*/
+
+.otgs-development-site-front-end {
+    display: none !important;
+}
